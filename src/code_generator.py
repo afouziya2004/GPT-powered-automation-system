@@ -1,4 +1,5 @@
-from openai_client import generate_response
+# from openai_client import generate_response
+from src.openai_client import generate_response
 
 def generate_eda_code():
     prompt = """
