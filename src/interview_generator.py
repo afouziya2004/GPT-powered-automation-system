@@ -1,4 +1,4 @@
-from openai_client import generate_response
+from src.openai_client import generate_response
 
 def generate_interview_questions(language):
     prompt = f"""
