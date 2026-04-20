@@ -1,4 +1,4 @@
-from openai_client import generate_response
+from openai_client import src.generate_response
 
 def summarize_meeting(notes):
     prompt = f"""
