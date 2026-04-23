@@ -129,6 +129,14 @@ python main.py
 ```
 
 ---
+## 🧪 Sample Inputs
+
+Resume Input:
+"I am a Computer Science student skilled in Python and AI..."
+
+Meeting Notes:
+Max: Profits up 50%
+Ruby: New servers online
 
 ## 📊 Sample Use Cases
 
