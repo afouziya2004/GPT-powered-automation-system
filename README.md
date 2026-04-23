@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![AI](https://img.shields.io/badge/AI-Generative-orange)
+![Status](https://img.shields.io/badge/Status-Completed-green)
 # GPT-powered-automation-system
 
 # 🤖 GPT-Based AI Automation System (Capstone Project)
